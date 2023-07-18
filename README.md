@@ -89,5 +89,3 @@ Contributions to Java-Essentials are welcome! If you encounter
 Java-Essentials is released under the [MIT License](https://github.com/GeorgePanaretos/Java-Essentials/blob/main/LICENSE).
 
 ---
-
-That's just an example of how you could structure the Markdown documentation for the Java-Essentials project. Feel free to modify and adapt it to suit your needs.
